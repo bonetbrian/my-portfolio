@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\Brian\source\repos\4_30DATAS\ArrayQueue.h(34,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  C:\Users\Brian\source\repos\4_30DATAS\ArrayQueue.h(34,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\4_30DATAS\ArrayQueue.h(35,2):
+  	see reference to class template instantiation 'ArrayQueue<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\4_30DATAS\ArrayQueue.h(87,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+  4_30DATAS.vcxproj -> C:\Users\Brian\source\repos\4_30DATAS\x64\Debug\4_30DATAS.exe

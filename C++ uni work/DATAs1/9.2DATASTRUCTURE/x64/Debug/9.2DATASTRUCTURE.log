@@ -1,0 +1,28 @@
+﻿  Main.cpp
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(41,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(41,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(47,2):
+  	see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(46,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(166,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\LinkedList.h(184,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\ListQueue.h(27,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  C:\Users\Brian\source\repos\9.2DATASTRUCTURE\ListQueue.h(27,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\9.2DATASTRUCTURE\ListQueue.h(28,2):
+  	see reference to class template instantiation 'ListQueue<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\9.2DATASTRUCTURE\ListQueue.h(74,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+  9.2DATASTRUCTURE.vcxproj -> C:\Users\Brian\source\repos\9.2DATASTRUCTURE\x64\Debug\9.2DATASTRUCTURE.exe

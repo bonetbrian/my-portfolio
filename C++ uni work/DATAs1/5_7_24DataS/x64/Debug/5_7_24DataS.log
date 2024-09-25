@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(62,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(62,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(68,2):
+  	see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(67,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(209,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\5_7_24DataS\LinkedList.h(227,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+  5_7_24DataS.vcxproj -> C:\Users\Brian\source\repos\5_7_24DataS\x64\Debug\5_7_24DataS.exe

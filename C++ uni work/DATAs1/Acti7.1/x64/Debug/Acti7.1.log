@@ -1,0 +1,16 @@
+﻿  LinkedListmain.cpp
+C:\Users\Brian\source\repos\Acti7.1\Linkedlist.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'LinkedListmain.cpp')
+  C:\Users\Brian\source\repos\Acti7.1\Linkedlist.h(44,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\Acti7.1\Linkedlist.h(50,2):
+  	see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\Acti7.1\Linkedlist.h(49,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'LinkedListmain.cpp')
+  
+C:\Users\Brian\source\repos\Acti7.1\Linkedlist.h(164,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'LinkedListmain.cpp')
+  
+LinkedListmain.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl LinkedList<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::setEntry(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?setEntry@?$LinkedList@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@UEAAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Users\Brian\source\repos\Acti7.1\x64\Debug\Acti7.1.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,9 @@
+﻿  Assembling assemblycode.asm...
+assemblycode.asm(1): error A2008: syntax error : .
+assemblycode.asm(19): error A2008: syntax error : main
+assemblycode.asm(19): error A2088: END directive required at end of file
+assemblycode.asm(11): error A2022: instruction operands must be the same size
+assemblycode.asm(12): error A2022: instruction operands must be the same size
+assemblycode.asm(13): error A2022: instruction operands must be the same size
+assemblycode.asm(14): error A2022: instruction operands must be the same size
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\assemblycode.obj" /W3 /errorReport:prompt  /Taassemblycode.asm" exited with code 1.

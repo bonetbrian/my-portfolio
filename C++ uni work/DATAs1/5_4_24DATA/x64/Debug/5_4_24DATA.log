@@ -1,0 +1,54 @@
+﻿  BinaryTreeMain.cpp
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(70,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(70,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(99,2):
+  	see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(75,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(78,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(79,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(81,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(83,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(84,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(85,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(357,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(387,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(432,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(451,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(470,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(486,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(501,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+C:\Users\Brian\source\repos\5_4_24DATA\BinaryNodeTree.h(516,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BinaryTreeMain.cpp')
+  
+  5_4_24DATA.vcxproj -> C:\Users\Brian\source\repos\5_4_24DATA\x64\Debug\5_4_24DATA.exe
