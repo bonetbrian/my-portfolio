@@ -1,0 +1,3 @@
+﻿  Assembling act5.1.asm...
+act5.1.asm(11): error A2074: cannot access label through segment registers
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\act5.1.obj" /W3 /errorReport:prompt  /Taact5.1.asm" exited with code 1.

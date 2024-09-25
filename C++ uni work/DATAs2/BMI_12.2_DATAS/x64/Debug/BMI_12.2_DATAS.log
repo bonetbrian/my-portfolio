@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(88,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(88,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(102,2):
+  	see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+  
+C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(93,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(234,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Brian\source\repos\BMI_12.2_DATAS\BinarySearchTree.h(272,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Main.cpp')
+  
+  BMI_12.2_DATAS.vcxproj -> C:\Users\Brian\source\repos\BMI_12.2_DATAS\x64\Debug\BMI_12.2_DATAS.exe

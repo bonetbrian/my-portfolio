@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Brian\source\repos\exam2datapt2\main.cpp(13,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian\source\repos\exam2datapt2\main.cpp(64,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian\source\repos\exam2datapt2\main.cpp(95,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  exam2datapt2.vcxproj -> C:\Users\Brian\source\repos\exam2datapt2\x64\Debug\exam2datapt2.exe

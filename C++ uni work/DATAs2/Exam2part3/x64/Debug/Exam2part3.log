@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(20,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(156,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(186,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(193,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(201,59): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Brian\source\repos\Exam2part3\main.cpp(203,65): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Exam2part3.vcxproj -> C:\Users\Brian\source\repos\Exam2part3\x64\Debug\Exam2part3.exe
