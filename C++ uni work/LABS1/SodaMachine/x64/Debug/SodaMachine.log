@@ -1,0 +1,4 @@
+﻿  SodaMachine.cpp
+C:\Users\Brian\Desktop\SodaMachine\SodaMachine.cpp(69,10): warning C4477: 'printf' : format string '%-*s' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Brian\Desktop\SodaMachine\SodaMachine.cpp(69,10): message : this argument is used as a field width
+  SodaMachine.vcxproj -> C:\Users\Brian\source\repos\SodaMachine\x64\Debug\SodaMachine.exe
